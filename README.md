@@ -1,3 +1,11 @@
+はじめる Drizzle (Next.js 15 と Supabase 最小限の開発環境構築 Drizzleは0.36からRLSに対応しました。) #Next.js15 - Qiita
+
+https://qiita.com/masakinihirota/items/57cff03009f407ec0946
+
+
+
+----------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
