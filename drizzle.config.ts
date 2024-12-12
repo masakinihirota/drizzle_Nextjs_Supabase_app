@@ -4,7 +4,8 @@ import { defineConfig } from "drizzle-kit";
 config({ path: ".env.local" });
 
 export default defineConfig({
-  schema: "./src/db/schema.ts",
+  // フォルダ内にあるスキーマファイルを読み込む
+  schema: "./src/db/schema",
   // Supabase へのマイグレーションファイルを出力するディレクトリ
   out: "./supabase/migrations",
   dialect: "postgresql",
